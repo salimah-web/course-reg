@@ -1,0 +1,41 @@
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\course reg.exe
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\course reg.deps.json
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\course reg.runtimeconfig.json
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\course reg.runtimeconfig.dev.json
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\course reg.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\course reg.pdb
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salima omari\source\repos\course reg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.csproj.AssemblyReference.cache
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.AssemblyInfoInputs.cache
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.AssemblyInfo.cs
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.csproj.CoreCompileInputs.cache
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.csproj.CopyComplete
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.dll
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.pdb
+C:\Users\salima omari\source\repos\course reg\obj\Debug\netcoreapp3.1\course reg.genruntimeconfig.cache
